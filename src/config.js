@@ -493,7 +493,7 @@ export const CLASH_CONFIG = {
     },
     'dns': {
         'enable': true,
-        'ipv6': true,
+        'ipv6': false,
         'respect-rules': true,
         'enhanced-mode': 'fake-ip',
         'nameserver': [
