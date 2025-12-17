@@ -31,8 +31,7 @@ export const CLASH_CONFIG = {
         	'https://dns.google/dns-query'
 		],
 		'proxy-server-nameserver': [
-			'https://120.53.53.53/dns-query',
-			'https://223.5.5.5/dns-query'
+			'https://dns.google/dns-query'
 		],
 		'nameserver-policy': {
 			'geosite:cn,private': [
